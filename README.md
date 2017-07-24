@@ -1,3 +1,7 @@
+## [DEPRECATED!!]
+
+新的实现方式参考 [android-xgallery](https://github.com/wuzhendev/android-xgallery)
+
 # android\-wgallery
 
 根据 [[GitHub: EcoGallery]](https://github.com/falnatsheh/EcoGallery) 实现
